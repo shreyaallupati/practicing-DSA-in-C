@@ -1,0 +1,4 @@
+The content of the binary array: Binary of 1 is 1 
+Binary of 2 is 10 
+Binary of 3 is 11 
+Binary of 4 is 100 
